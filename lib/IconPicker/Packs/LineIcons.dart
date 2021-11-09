@@ -1127,8 +1127,6 @@ const Map<String, IconData> lineAwesomeIcons = {
       IconData(0xf260, fontFamily: _kFontFam, fontPackage: _kFontPackage),
   'gg_currency_circle':
       IconData(0xf261, fontFamily: _kFontFam, fontPackage: _kFontPackage),
-  'tripadvisor':
-      IconData(0xf262, fontFamily: _kFontFam, fontPackage: _kFontPackage),
   'odnoklassniki':
       IconData(0xf263, fontFamily: _kFontFam, fontPackage: _kFontPackage),
   'odnoklassniki_square':
